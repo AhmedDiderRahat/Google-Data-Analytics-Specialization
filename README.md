@@ -16,9 +16,17 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 ## Course 1: Foundations: Data, Data, Everywhere
 
 - Skills Gains: 
-
-- Note Link:
-
+	1. Introduction to Data Analysis.
+	2. GAP Analysis.
+	3. Six steps of data anlysis process.
+	4. Data Eco-system.
+	5. Data-driven decision making.
+	6. Data Life Cycle.
+	7. Analytical thinking.
+	8. Data Analysis tool-box.
+	
+- [Note Link:](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9401.pdf)
+ 
 
 ## Course 2: Ask Questions to Make Data-Driven Decisions
 
