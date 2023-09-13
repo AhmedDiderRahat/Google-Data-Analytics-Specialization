@@ -44,7 +44,7 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 	10. Dashboards.
 	11. Spreadsheet.
 
-- [Note Link] (https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9402.pdf) 
+- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9402.pdf) 
 
 
 
@@ -68,7 +68,7 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 	15. Data Governance.
 	16. Data Security.
 	
-- [Note Link] (https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9403.pdf)
+- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9403.pdf)
 
 
 
@@ -85,7 +85,7 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 	8. Changelog.
 	9. Data verification. 
 
-- [Note Link] (https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9404.pdf)
+- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9404.pdf)
 
 
 
@@ -102,7 +102,7 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 	8. Sub-query
 	9. Temorary table.
 	
-- [Note Link] (https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9405.pdf)
+- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9405.pdf)
 
 
 ## Course 6: Visualize Data for Exploration and Discovery
@@ -121,7 +121,7 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 	11. Best practices for story-telling.
 	12. Purpose of framework.
 
-- [Note Link] (https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9406.pdf)
+- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9406.pdf)
 
 
 
@@ -138,7 +138,7 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 	8. Data transformation in R.
 	9. R-markdown.
 
-- [Note Link] (https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9407.pdf)
+- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9407.pdf)
 
 
 
@@ -150,7 +150,7 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 	3. Goal of the analysis. 
 	4. Complete the case stady and implement data analysis phases.
 
-- [Note Link] (https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9408.pdf) 
+- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9408.pdf) 
 
 
 
