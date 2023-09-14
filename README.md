@@ -2,10 +2,6 @@
 title: Google Data Analytics Professional Certificate
 author: Rahat A.D.
 date: Auguest 24, 2023
-output:
-  github_document:
-    toc: true
-    toc_depth: 2
 ---
 
 # Introduction
